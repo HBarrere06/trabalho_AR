@@ -150,5 +150,5 @@ Packages/packages-lock.json linguist-generated
 LightingData.asset     binary
 Packages/*.tgz filter=lfs diff=lfs merge=lfs -text
 Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX filter=lfs diff=lfs merge=lfs -text
-*.fbx filter=lfs diff=lfs merge=lfs -text
 *.tgz filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
