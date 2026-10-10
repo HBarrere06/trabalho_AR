@@ -149,5 +149,6 @@ Packages/packages-lock.json linguist-generated
 # Exceptions for .asset files such as lightning pre-baking
 LightingData.asset     binary
 Packages/*.tgz filter=lfs diff=lfs merge=lfs -text
+Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.tgz filter=lfs diff=lfs merge=lfs -text
