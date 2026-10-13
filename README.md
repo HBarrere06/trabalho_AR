@@ -1,3 +1,4 @@
+
 # Museu Virtual de Machado de Assis
 
 ## 1. Descrição do projeto
@@ -33,3 +34,6 @@ Por meio da câmera e do reconhecimento de um QR Code ou alvo de imagem
 - Pacote Input System
 - Webcam para testes com a câmera do computador
 - Dispositivo móvel compatível, caso a aplicação seja compilada para uso em celular
+
+## 4. Demonstração de uso
+https://github.com/user-attachments/assets/b9bdd20b-6fcb-40ee-a7c5-88e601cac38e
